@@ -1,6 +1,3 @@
-<div align="center"><img src="https://raw.githubusercontent.com/justpiple/justpiple/main/banner.jpg"></div>
-
----
 
 * 🌍  I'm based in Indonesia
 * 🧠  I'm currently learn Java
