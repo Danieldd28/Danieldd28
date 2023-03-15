@@ -1,9 +1,5 @@
 
-* 🌍  I'm based in Indonesia
-* 🧠  I'm currently learn Java
 * 🏫  I'm a student at [SMK Telkom Malang](https://smktelkom-mlg.sch.id)
-* 🌍  I'm based in Indonesia
-* 🌍  I'm based in Indonesia
 * 🌍  I'm based in Indonesia
 
 <a href="https://www.github.com/danieldd28" target="_blank" rel="noreferrer"><img
