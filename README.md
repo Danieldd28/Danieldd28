@@ -29,6 +29,6 @@ src="https://img.shields.io/github/followers/danieldd28?logo=github&style=for-th
 
 <div>
   <center>
-    <p>&nbsp;<img src="https://spotify-github-profile.vercel.app/api/view?uid=315mx54iq36enbhwtt356a5kvoie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/></p>
+    <p>&nbsp;<img src="https://spotify-github-profile.vercel.app/api/view?uid=315mx54iq36enbhwtt356a5kvoie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true&show_offline=true&background_color=141321&interchange=false&bar_color=ff0080&bar_color_cover=false"/></p>
   </center>
 </div>
