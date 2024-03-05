@@ -29,6 +29,6 @@ src="https://img.shields.io/github/followers/danieldd28?logo=github&style=for-th
 
 <div>
   <center>
-    <p></p>
+    <p>&nbsp;<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=315mx54iq36enbhwtt356a5kvoie&redirect=true&https://spotify-github-profile.vercel.app/api/view.svg?uid=315mx54iq36enbhwtt356a5kvoie&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true"/></p>
   </center>
 </div>
